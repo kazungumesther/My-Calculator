@@ -7,7 +7,7 @@ A cross-platform mobile application built using Flutter to perform basic and adv
 ##  Live Demo
 
 Check out the source repository and track updates here:  
-**[://github.com](https://://github.com)**
+**(https://github.com/kazungumesther/My-Calculator/tree/main)**
 
 ---
 
