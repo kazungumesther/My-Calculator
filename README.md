@@ -1,3 +1,4 @@
+
 # Calculator App
 
 A cross-platform mobile application built using Flutter to perform basic and advanced mathematical calculations within a clean layout.
@@ -5,6 +6,8 @@ A cross-platform mobile application built using Flutter to perform basic and adv
 ---
 
 ##  Live Demo
+
+<img width="507" height="1077" alt="Screenshot from 2026-11-10 21-35-32" src="https://github.com/user-attachments/assets/d086b233-646c-4373-9ff3-fedd0893a860" />
 
 Check out the source repository and track updates here:  
 **(https://github.com/kazungumesther/My-Calculator/tree/main)**
